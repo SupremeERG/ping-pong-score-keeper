@@ -1,0 +1,9 @@
+.winning {
+    color: green;
+}
+.losing {
+    color: red;
+}
+.card {
+    margin-top: 40px;
+}
